@@ -1,9 +1,10 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=AlQuran-Android&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=ResepMakanan&theme=dracula)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=Music-Player&theme=merko)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=WisataPurwakarta&theme=tokyonight)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=nightowl)
+
 
 <a href="https://www.instagram.com/azharrvldi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/azhar-rivaldi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
