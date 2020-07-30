@@ -1,8 +1,10 @@
+## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=AlQuran-Android&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=AlQuran-Android&theme=gruvbox)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=ResepMakanan&theme=dracula)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=Music-Player&theme=merko)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=Music-Player&theme=onedark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzharRivaldi&repo=WisataPurwakarta&theme=tokyonight)
 
 
