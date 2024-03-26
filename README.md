@@ -1,7 +1,13 @@
-## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+<p align="center">
+<b>Welcome to Azhar's profile!</b> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+</p>
 
-<p>
-  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
+<p align="center">
+  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="25%" />
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45B7FF&center=true&random=false&width=435&lines=Full+Stack+Developer;Experience+in+Mobile+Development;always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ### Connect with me:
