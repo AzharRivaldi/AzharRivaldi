@@ -19,5 +19,5 @@
 <a href="https://www.tiktok.com/@azharrvldi_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="32px" alt="TikTok"></a>
 
 ### My Github stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=transparent)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=transparent)
